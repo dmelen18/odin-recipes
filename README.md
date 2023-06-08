@@ -1,2 +1,2 @@
-#Odin Recipes Page
+# Odin Recipes Page
 - Basic Recipe website using HTML
